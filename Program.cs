@@ -16,7 +16,7 @@ namespace hallo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BMI計算機());
+            Application.Run(new frmBMI());
         }
     }
 }
